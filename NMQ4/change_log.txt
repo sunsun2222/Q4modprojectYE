@@ -10,3 +10,6 @@ line 2945-2954 : adding function for cmd "whereami"
 
 week of 10/2
 	cmd function for position is done
+GOALS
+	change the model for whatever weapon you decide to turn into the beam katana
+	logo is inverted colors
