@@ -1,0 +1,15 @@
+9/28
+GOALS
+- Start making weapons, spawn with them
+- Create the system command for finding current location, useful for mapping later
+
+line 3237-3238: added line for cmd "whereami"
+line 2945-2954 : adding function for cmd "whereami"
+
+
+
+week of 10/2
+	cmd function for position is done
+GOALS
+	change the model for whatever weapon you decide to turn into the beam katana
+	logo is inverted colors
